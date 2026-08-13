@@ -2,7 +2,7 @@
 
 A web tool that generates a branded Hacker House Goa 2026 builder ID / profile frame / team card from an uploaded photo — built for the [HH Goa 2026 Open Trial shortlisting task](https://hhgoa.com/).
 
-**Live site:** https://hhgoatask1.netlify.app/
+**Live site:** https://hacker-housegoa-id.vercel.app/
 
 ## What it does
 
